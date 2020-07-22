@@ -29,4 +29,4 @@ export default class loadImage {
         }
     }
 }
-module.exports = loadImageJs;
+module.exports = loadImage;
