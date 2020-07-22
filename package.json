@@ -1,0 +1,23 @@
+{
+  "name": "load-image.js",
+  "version": "0.0.1",
+  "description": "Image read judgment with vanilla javascript",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykkey/load-image.git"
+  },
+  "keywords": [
+    "load",
+    "image"
+  ],
+  "author": "ykkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ykkey/load-image/issues"
+  },
+  "homepage": "https://github.com/ykkey/load-image#readme"
+}
